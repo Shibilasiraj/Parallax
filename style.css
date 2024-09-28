@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?cs=srgb&dl=pexels-pixabay-158827.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+    display: block;
+    justify-content: center;
+    text-align: center;
+  
+}
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://plus.unsplash.com/premium_photo-1664300792059-863ccfe55932?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9yZXN0fGVufDB8fDB8fHww);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+
+}
+.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+
+}
+h1{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #fff;
+    /* margin: 0px; */
+    text-align: center;
+    /* display: table-cell; */
+    /* vertical-align: middle; */
+    /* align-items: center; */
+    
+}
+p{
+    font-size: 25px;
+  
+}
